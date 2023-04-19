@@ -1,7 +1,8 @@
 export const globalOptions = {
-  name: "sprint-39-dev-77544",
-  url: "https://sprint-39-dev-77544.botics.co",
-  api: "https://sprint-39-dev-77544.botics.co/api/v1"
+  "name": "sprint-39-dev-77544",
+  "url": "https://sprint-39-dev-77544.botics.co",
+  "api": "https://sprint-39-dev-77544.botics.co/api/v1",
+  "initialRoute": "Untitled1"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
