@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import GSEGSG
-admin.site.register(GSEGSG)
+from .models import DDDDDDD
+admin.site.register(DDDDDDD)
 
 # Register your models here.
